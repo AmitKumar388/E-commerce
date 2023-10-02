@@ -68,6 +68,7 @@
     opacity: 0.9;
     font-weight: lighter;
     line-height: 20px;
+    padding: 15px;
 }
 .main .main_content .btn{
     margin-top: 50px;
