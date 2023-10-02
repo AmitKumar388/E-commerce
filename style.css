@@ -67,8 +67,8 @@
     color: #FF5722;
     opacity: 0.9;
     font-weight: lighter;
-    line-height: 20px;
-    margin-top: 15px;
+    line-height: 40px;
+    padding: 10px;
 }
 .main .main_content .btn{
     margin-top: 50px;
